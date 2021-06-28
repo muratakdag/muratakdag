@@ -18,8 +18,8 @@ You may find some experimental and forked projects on my repos, feel free to con
 <a href="https://www.linkedin.com/in/muratakdağ/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/muratakdağ/">
 </a>
-<a href="mailto:makdag5@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:makdag5@hotmail.com">
+<a href="mailto:bafilonbambam@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:bafilonbambam@gmail.com">
 </a>
 <a href="https://medium.com/@makdag5" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@makdag5">
