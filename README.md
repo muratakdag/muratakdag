@@ -21,8 +21,8 @@ You may find some experimental and forked projects on my repos, feel free to con
 <a href="mailto:makdag5@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:makdag5@hotmail.com">
 </a>
-<a href="https://medium.com/@farukesen5555" target="_blank">
-    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@farukesen5555">
+<a href="https://medium.com/@makdag5" target="_blank">
+    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@makdag5">
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=muratakdag&show_icons=true&theme=dark">
